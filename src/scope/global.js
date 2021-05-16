@@ -22,3 +22,4 @@ const functionMagica= ()=>{
 
 functionMagica();
 console.log(soyglobal);
+
