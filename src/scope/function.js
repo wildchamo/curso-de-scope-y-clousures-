@@ -14,3 +14,4 @@ const otraFuncion =()=>{
     console.log(x,y)
 }
 otraFuncion();
+
